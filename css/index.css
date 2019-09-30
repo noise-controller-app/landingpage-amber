@@ -204,7 +204,7 @@ img {
   padding: 0% 4%;
 }
 .header-name {
-  background-color: #2db1a8;
+  background-color: #2d9379;
   color: #fff;
   margin-top: 1em;
   padding: 0.75em 0 0.75em 3em;
@@ -290,7 +290,7 @@ nav ul li a.logo {
   font-size: 2.2em;
 }
 .features .features-intro {
-  background-color: #2db1a8;
+  background-color: #2d9379;
   color: #fff;
   padding: 5%;
   display: flex;
@@ -377,7 +377,7 @@ nav ul li a.logo {
   justify-content: center;
   align-items: center;
   color: #fff;
-  background-color: #2db1a8;
+  background-color: #2d9379;
   text-decoration: none;
   font-size: 6em;
   font-weight: 700;
@@ -504,10 +504,7 @@ nav ul li a.logo {
     font-size: 4.4em;
   }
 }
-.contact a:active,
-.contact a:visited {
-  color: #2db1a8;
-}
-.contact a:hover {
-  color: #FE7006;
+.fa-github:before,
+.fa-linkedin:before {
+  color: #2d9379;
 }
